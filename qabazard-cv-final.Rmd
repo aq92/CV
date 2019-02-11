@@ -1,0 +1,38 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Ahmad S. Qabazard
+
+jobtitle: "Graduate Student at the University of Iowa"
+address: "357 Schaeffer Hall, Iowa City, Iowa 52242-1409"
+fontawesome: yes
+email: ahmadqabazard@gmail.com
+github: aq92
+twitter: AhmadQ992
+#phone: "+353 1 408 4800"
+web: qabazard.org
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Education
+
+*University of Iowa*, Ph.D. Political Science \hfill,  
+
+*New York University*, M.A. Politics \hfill 2017
+
+
+*Loyola Marymount University*, B.A. Political Science & Philosophy \hfill 2015
+
